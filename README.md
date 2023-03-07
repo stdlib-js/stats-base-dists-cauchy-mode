@@ -32,10 +32,14 @@ The [mode][mode] for a [Cauchy][cauchy-distribution] random variable with locati
 
 <!-- <equation class="equation" label="eq:cauchy_mode" align="center" raw="\operatorname{mode}\left( X \right) = x_0" alt="Mode for a Cauchy distribution."> -->
 
-<div class="equation" align="center" data-raw-text="\operatorname{mode}\left( X \right) = x_0" data-equation="eq:cauchy_mode">
+```math
+\operatorname{mode}\left( X \right) = x_0
+```
+
+<!-- <div class="equation" align="center" data-raw-text="\operatorname{mode}\left( X \right) = x_0" data-equation="eq:cauchy_mode">
     <img src="https://cdn.jsdelivr.net/gh/stdlib-js/stdlib@51534079fef45e990850102147e8945fb023d1d0/lib/node_modules/@stdlib/stats/base/dists/cauchy/mode/docs/img/equation_cauchy_mode.svg" alt="Mode for a Cauchy distribution.">
     <br>
-</div>
+</div> -->
 
 <!-- </equation> -->
 
@@ -214,7 +218,7 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 -->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
-[chat-url]: https://gitter.im/stdlib-js/stdlib/
+[chat-url]: https://app.gitter.im/#/room/#stdlib-js_stdlib:gitter.im
 
 [stdlib]: https://github.com/stdlib-js/stdlib
 
