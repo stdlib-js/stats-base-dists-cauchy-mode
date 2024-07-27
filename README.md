@@ -67,7 +67,7 @@ The [mode][mode] for a [Cauchy][cauchy-distribution] random variable with locati
 ## Usage
 
 ```javascript
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cauchy-mode@esm/index.mjs';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cauchy-mode@v0.2.2-esm/index.mjs';
 ```
 
 #### mode( x0, gamma )
@@ -130,7 +130,7 @@ v = mode( 1.0, 0.0 );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-eps@esm/index.mjs';
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cauchy-mode@esm/index.mjs';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-cauchy-mode@v0.2.2-esm/index.mjs';
 
 var gamma;
 var x0;
