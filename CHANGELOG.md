@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-12-28)
+
+<section class="features">
+
+### Features
+
+-   [`f5f16d3`](https://github.com/stdlib-js/stdlib/commit/f5f16d3a7fb02c9bd000b0d0d53e7d12b19b097b) - add C implementation for `stats/base/dists/cauchy/mode` [(#3952)](https://github.com/stdlib-js/stdlib/pull/3952)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3484](https://github.com/stdlib-js/stdlib/issues/3484)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`f5f16d3`](https://github.com/stdlib-js/stdlib/commit/f5f16d3a7fb02c9bd000b0d0d53e7d12b19b097b) - **feat:** add C implementation for `stats/base/dists/cauchy/mode` [(#3952)](https://github.com/stdlib-js/stdlib/pull/3952) _(by Vivek maurya, Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Philipp Burckhardt
+-   Vivek maurya
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)
